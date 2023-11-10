@@ -1,5 +1,3 @@
-### top_250_french_movies_eda_sentimental_analysis
-
 ## Top 250 French Movies
 
 The "Top 250 French Movies" dataset comprises information on the highest-rated French movies according to user ratings on various platforms. This dataset contains 250 unique French movies that have garnered critical acclaim and popularity among viewers. Each movie is associated with essential details, including its rank, title, release year, duration, genre, IMDb rating, image source link, and a brief description.
